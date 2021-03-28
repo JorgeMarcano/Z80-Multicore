@@ -16,7 +16,6 @@ Here is a more detailed descriptions of my goals:
 
 Although there seems to be very serious learning involved, I want to make it clear that this is being done as a hobby and I do not imply that I am necessarily doing anything the right way, or that I am an expert.
 
-
 ## Research
 
 Here is a list of ressources I have used to do my research on this subject:
@@ -29,6 +28,10 @@ Here is a list of ressources I have referenced when doing research, but did not 
 - Z80 CPU User Manual [[pdf](http://www.zilog.com/docs/z80/um0080.pdf)]
 
 Although I did not fully read them, I still believe them to be really good ressources and should be read thoroughly for an even better experience and knowledge base.
+
+## Notes
+
+You can find my general notes on the project [here](notes).
 
 ## Results
 
