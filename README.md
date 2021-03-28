@@ -31,7 +31,7 @@ Although I did not fully read them, I still believe them to be really good resso
 
 ## Notes
 
-You can find my general notes on the project [here](notes).
+You can find my general notes on the project [here](Notes).
 
 ## Results
 
